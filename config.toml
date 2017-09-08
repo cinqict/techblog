@@ -1,4 +1,4 @@
-BaseUrl= "http://blog.cinqict.nl/"
+BaseUrl= "http://cinqict.github.io/"
 LanguageCode= "nl-NL"
 Title= "CINQ ICT Tech Blog"
 paginate = 5
