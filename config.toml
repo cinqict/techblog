@@ -1,0 +1,36 @@
+BaseUrl= "http://blog.cinqict.nl/"
+LanguageCode= "nl-NL"
+Title= "CINQ ICT Tech Blog"
+paginate = 5
+DisqusShortname = "cinqicttest"
+Copyright = "CINQ ICT All rights reserved - 2017"
+canonifyurls = true
+theme = "casper"
+
+[params]
+  description = "Welkom op het CINQ ICT tech blog"
+  metadescription = "Micro Techblog"
+  cover = "images/cinqict_cover1.jpg"
+  image = "images/cinqict_cover1.jpg"
+  author = "CINQ ICT"
+  authorlocation = "Amsterdam, Netherlands"
+  authorwebsite = "http://cinqict.nl"
+  authorbio= "my bio"
+  logo = "images/cinq_logo.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  githubName = "cinqict"
+  twitterName = "cinqict"
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "cinqict"
+
