@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cinqict.github.io/post/christiaan/dry/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/post/wian/pet/</loc>
+    <lastmod>2017-09-01T10:12:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/tags/command-line/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/tags/cool/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/tags/docker/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/tags/dry/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/post/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/tags/shell/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cinqict.github.io/tags/</loc>
+    <lastmod>2017-09-07T21:26:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
