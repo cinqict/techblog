@@ -26,6 +26,7 @@ publishDir = "docs"
   twitterName = "cinqict"
   facebookName = "cinqict"
   linkedinName = "company/3504744"
+  instagramName = "cinqict"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   
