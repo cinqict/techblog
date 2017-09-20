@@ -20,7 +20,7 @@ publishDir = "docs"
   authorwebsite = "http://cinqict.nl"
   authorbio= "my bio"
   logo = "images/cinq_logo.png"
-  googleAnalyticsUserID = ""
+  googleAnalyticsUserID = "UA-106769321-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   githubName = "cinqict"
   twitterName = "cinqict"
