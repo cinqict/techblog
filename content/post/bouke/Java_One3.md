@@ -48,4 +48,4 @@ Person::getName
 
 Elke regel is een beetje korter dan zijn voorganger. De laatste regel is het makkelijkst te interpreteren en daardoor het snelst te begrijpen. Oftewel korter is beter. Van de vorige stelling hadden we al geleerd dat de eerste variant sowieso uit den boze is. 
 
-Voor meer informatie over dit onderwerp is onderstaande *[blogpost](http://blog.agiledeveloper.com/2015/06/lambdas-are-glue-code.html) van Venkat Subramaniam een aanrader. 
+Voor meer informatie over dit onderwerp is onderstaande *[blogpost](http://blog.agiledeveloper.com/2015/06/lambdas-are-glue-code.html)* van Venkat Subramaniam een aanrader. 
