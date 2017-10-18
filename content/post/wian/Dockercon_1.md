@@ -11,7 +11,7 @@ authorwebsite: "www.github.com/wianvos"
 image: "images/dockercon1.png"
 ---
 De grootste aankonding tijdens de Dockercon EU 2017 general session was de integratie van Kubernetes in de Docker EE en CE toolstacks. 
-Waarom is dit een grootte aankonding? Omdat het feitelijk betekend dat Docker afstapt van de hechte integratie met zijn eigen product Swarm en gaat bijdragen aan het Kubernetes project. Wat vooral verrassend is, is dat deze integratie al in Q1 van 2018 beschikbaar is in de productie versie van Docker EE. 
+Waarom is dit een grote aankondiging? Omdat het feitelijk betekent dat Docker afstapt van de hechte integratie met zijn eigen product Swarm en gaat bijdragen aan het Kubernetes project. Wat vooral verrassend is, is dat deze integratie al in Q1 van 2018 beschikbaar is in de productie versie van Docker EE. 
 
 Dit nieuws kwam echt als een complete verrassing aangezien in het verleden Docker swarm lijnrecht tegenover Kubernetes stond beide gepositioneerd als _het_ orchestratie platform voor container workloads. 
 
