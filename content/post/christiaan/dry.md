@@ -3,7 +3,7 @@ title: "Commandline Awesome: Dry"
 date: 2017-09-07T21:26:26+02:00
 tags: [ "shell", "command line", "cool", "docker", "dry" ]
 draft: false
-author: "Christaan Kewerkopf"
+author: "Christian Kewerkopf"
 authoravatar: "https://octodex.github.com/images/topguntocat.png"
 authorbio: "Devops Cloud Engineer, Open source enthusiast. Pilot"
 authorlocation: "Amsterdam, Netherlands"
