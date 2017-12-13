@@ -25,7 +25,7 @@ Hoe bouw ik dan een image die zo min mogelijk ruimte in zal gaan nemen?
 * Chain je RUN statements. Gebruik bijvoorbeeld 1 RUN statement om meerdere packages te installeren.
 * Zorg dat je Docker image zoveel mogelijk gebruik maakt van caching. Bewaar je run statements voor het einde en zorg dat de wijzigingen die je moet maken aan je image zo ver mogelijk in jouw image worden uitgesteld. Hier zijn uiteraard uitzonderingen op.
 * Wisselen van gebruikers voegt layers toe. Mocht je een bepaalde user moeten gebruiken voor een package/app. Probeer dan het wisselen van user te voorkomen.
-* Vermijdt het toevoegen van grote files. Install packages kunnen worden uitgepakt, geinstalleerd    en worden verwijdert in 1 RUN statement.
+* Vermijdt het toevoegen van grote files. Install packages kunnen worden uitgepakt, geinstalleerd en worden verwijderd in 1 RUN statement.
 * Gebruik een base image die past bij je container. Een minimale base image zoals Alpine kan veel disk space besparen maar is niet altijd de beste keuze in verband met security, packages en functionaliteit.
 
 Als je deze regels goed hanteert ben je verzekerd van de snelst mogelijke Docker workflow in het geval van een pull/build of run.
