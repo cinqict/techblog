@@ -5,9 +5,9 @@ tags: [ "jenkins", "docker", "development"]
 draft: false
 author: "Eric Cornet"
 authoravatar: "https://octodex.github.com/images/inspectocat.jpg"
-authorbio: "Automation Guru"
+authorbio: "CI/CD engineer"
 authorlocation: "Amsterdam, Netherlands"
-image: "images/dockerjenkins.png"
+image: "images/jenkins-docker-1.png"
 
 ---
 
@@ -16,9 +16,9 @@ I needed a Jenkins Docker image that I could launch and destroy easily with a mi
 To my surprise, I needed to google multiple references to set this up. 
 Enough reason for me to share my findings and results.
 
-Jenkins offers a official Docker image [jenkins/jenkins](https://hub.docker.com/r/jenkins/jenkins/). 
+Jenkins offers an official Docker image [jenkins/jenkins](https://hub.docker.com/r/jenkins/jenkins/). 
 This is a good starting point to create your own image since it contains an extensive readme
-with al kinds of code snippets that you can use in your Dockerfile. 
+with all kinds of code snippets that you can use in your Dockerfile. 
 
 ```bash
 # Get latest image
@@ -27,14 +27,14 @@ docker pull jenkins/jenkins
 docker run -p 80:8080 jenkins/jenkins
 ```
 
-Browse to `http://localhost:80` you immediately see some manual steps which are nice for a first Jenkins experience, but not in your development environment. 
+Browse to `http://localhost:80` and you immediately see some manual steps which are nice for a first Jenkins experience, but not in your development environment. 
 You need to:
 - Copy a secret key from the log file, 
 - Select plugins
 - Login with a default username/password 
 - Create a project
 
-So this gives us four manual steps we want to get rid of. 
+So this gives us four manual steps we want to get rid off. 
 To do this, we will create a Dockerfile and some initial Groovy script to configure Jenkins during start up.
 
 ## Setting things up
@@ -65,7 +65,7 @@ ENV JAVA_OPTS="-Djenkins.install.runSetupWizard=false"
 ```
 
 ## Remove Credentials
-As a second step we do not want to login upon each restart, so we need to remove the required default credentials. 
+As a second step we don't want to login upon each restart, so we need to remove the required default credentials. 
 This is done with a small Groovy script which can be added to the `init.groovy.d` directory. All Groovy files in this directory will be executed during startup.
 
 Created the file: `init.groovy.d/disable-securit.groovy`
@@ -178,7 +178,7 @@ COPY --chown=jenkins:jenkins init.groovy.d/ /var/jenkins_home/init.groovy.d/
 ```
 
 ## Summarize
-These Dockerfile and init Groovy scripts gives a simple Jenkins image which you can run en destroy in seconds and is therefore very useful for developing Jenkinsfiles and init Groovy scripts.
+These Dockerfile and init Groovy scripts give a simple Jenkins image which you can run en destroy in seconds and is therefore very useful for developing Jenkinsfiles and init Groovy scripts.
 
 
 Eric Cornet <br>
