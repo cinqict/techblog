@@ -32,7 +32,7 @@ Als het voor developers en sysadmins al pittig is, kan het zeker voor een non-te
 
 Als je als tech recruiter of in een andere niet-technische rol in een organisatie werkt waar de hele dag de term Kubernetes om je oren vliegt, is de comic van Scott McCloud (what's in a name?) echt een _must-read!_
 
-![k8s to the rescue](/static/images/k8scomiccopy.png "Kubernetes comic")
+![k8s to the rescue](../../../static/images/k8scomiccopy.png "Kubernetes comic")
 
 bron: https://cloud.google.com/kubernetes-engine/kubernetes-comic/
  
