@@ -14,7 +14,7 @@ TL;DR: ik was als non techie 3 dagen op een tech conferentie en vond het awesome
 
 #### KubeCon + CloudNativeCon
 Van 2 tot en met 4 mei vond in het Bella Center in Kopenhagen, Denemarken KubeCon + CloudNativeCon Europe 2018 plaats. 
-De focus van deze conferentie ligt op microservices, containers, container-ochestration en cloud native applicaties.
+De focus van deze conferentie ligt op microservices, containers, container-orchestration en cloud native applicaties.
  
 Verdeeld over 2 grote ruimtes en meerdere zalen voor presentaties en demo's, woonden ruim 4300 k8s-enthousiastelingen keynote-sessies en tech talks bij van uiteenlopende bedrijven en individuen. Vooral de keynote sessies werden drukbezocht!
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Somehow the crowd at <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> is simply stunning... <a href="https://t.co/MMzXgfSARg">pic.twitter.com/MMzXgfSARg</a></p>&mdash; Dirk Hohndel (@_dirkhh) <a href="https://twitter.com/_dirkhh/status/991709991034851328?ref_src=twsrc%5Etfw">May 2, 2018</a></blockquote>
@@ -26,10 +26,10 @@ Verdeeld over 2 grote ruimtes en meerdere zalen voor presentaties en demo's, woo
 Voor mij als niet-techneut, was het ook super gaaf om deze tech conferentie bij te wonen. Een aantal van de talks waren gericht op het ontstaan van Kubernetes en wat je als developer of sysadmin zou moeten begrijpen voordat je er mee gaat werken. 
 Dit gaf mij ook een erg goed beeld van wat het nu eigenlijk is!
 
-"Kubernetes is f*ing intimidating," dit statement kwam voorbij in de presentatie van [Kate Kuchin](https://twitter.com/exkuchme) van [Heptio](https://heptio.io) waarin zij een groot aantal tips gaf aan Kubernetes-beginners.
-Als het voor developers en sysadmins al pittig is, kan het zeker voor een non-techie ontzettend intimiderend zijn! Wat zijn toch al die clusters, nodes, pods, containers etc... 
+"Kubernetes is f*ing intimidating," dit statement kwam voorbij in de presentatie van [Kate Kuchin](https://twitter.com/exkuchme) van [Heptio](https://www.heptio.com) waarin zij een groot aantal tips gaf aan Kubernetes-beginners.
+Als het voor developers en system engineers al pittig is, kan het zeker voor een non-techie ontzettend intimiderend zijn! Wat zijn toch al die clusters, nodes, pods, containers etc... 
 
-Als je als tech recruiter of in een andere niet-technische rol in een organisatie werkt waar de hele dag de term Kubernetes om je oren vliegt, is de comic van Scott McCloud (what's in a name?) echt een _must-read!_
+Als je als tech recruiter of in een andere niet-technische rol in een IT organisatie werkt waar de hele dag de term Kubernetes om je oren vliegt, is de comic van Scott McCloud (what's in a name?) echt een _must-read!_
 
 <img src="/images/k8scomic.jpeg" alt="Kubernetes comic" width="600" height="493"> 
 
