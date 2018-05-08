@@ -7,7 +7,7 @@ author: "Eric Cornet"
 authoravatar: "https://octodex.github.com/images/inspectocat.jpg"
 authorbio: "CI/CD engineer"
 authorlocation: "Amsterdam, Netherlands"
-image: "images/jenkins-docker-1.png"
+image: "images/dockerjenkinswhite.png"
 
 ---
 
