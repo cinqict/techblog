@@ -9,8 +9,6 @@ authorbio: "Splunk specialists"
 authorlocation: "Amsterdam, Netherlands"
 image: "images/indexanydata.png"
 ---
-<small> _door Bob Nieuwenhuis & Matthias van den Berg_ </small>
-
 
 Wanneer je Splunk installeert op een Linux systeem is het in bijna alle gevallen aan te raden om specifieke settings op Linux aan te passen voor een betere performance van Splunk.
 
