@@ -4,7 +4,7 @@ This is the archive for the [cinqict tech blog](https://cinqict.nl/blog/).
 
 
 ## Add blog
-Please write your blog in Markdown and put it in the `./post/YOURNAME` directory. You can also add your image there, so it is all in one place.
+Please write your blog in Markdown format and put it in the directory with your name. You can also add your image there, so it is all in one place.
 
 ## Remarks
 
